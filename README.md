@@ -1,15 +1,20 @@
 # Road Accident Insights and Trends Dashboard
 
 ## Project Overview
-Analyzes road accident data using Power BI to identify trends and patterns.
+This Power BI dashboard analyzes road accident data to identify trends and patterns based on time, severity, and location.
+
+## Data Source
+The dataset used in this project is large in size and therefore not uploaded to GitHub.
+It is publicly available from open data portals.
 
 ## Tools Used
 - Power BI
 - MS Excel
 
 ## Key Insights
-- Accident trends over time
-- Severity and location-based analysis
+- Time-based accident trend analysis
+- Severity-wise accident distribution
+- Location-based accident patterns
 
 ## Project Status
 Academic Project
